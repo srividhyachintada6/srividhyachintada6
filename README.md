@@ -161,32 +161,6 @@ const srividhya = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- LeetCode -->
-
-<h2 align="center">🧠 LeetCode Journey</h2>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/srividhya_chintada">
-
-<img src="https://img.shields.io/badge/LeetCode-srividhya__chintada-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-</a>
-
-<br><br>
-
-<b>💡 Learning DSA one problem at a time.</b>
-
-<br>
-
-Problem Solving • Algorithms • Data Structures • Java
-
-</div>
-
-<!-- Animated Divider -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- GitHub Snake -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
