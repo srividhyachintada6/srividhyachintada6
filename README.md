@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%26+DSA+Learner+%F0%9F%A7%A0;MERN+Stack+Developer+%E2%9A%A1;Building+CampusPrint+%F0%9F%96%A8%EF%B8%8F;LeetCode+Problem+Solver+%F0%9F%8E%AF;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=750&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%26+DSA+Learner+%F0%9F%A7%A0;MERN+Stack+Developer+%E2%9A%A1;LeetCode+Problem+Solver+%F0%9F%8E%AF;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -49,17 +49,6 @@ const srividhya = {
         "Full Stack Development"
     ],
 
-    building: [
-        "CampusPrint — College Xerox & Printing System"
-    ],
-
-    learning: [
-        "Spring Boot",
-        "React",
-        "MongoDB",
-        "System Design"
-    ],
-
     interests: [
         "Problem Solving",
         "Web Development",
@@ -68,16 +57,6 @@ const srividhya = {
     ],
 
     goal: "Learn, Build, Solve & Improve 🚀",
-
-    lifeLoop: function() {
-        while (alive) {
-            learn();
-            code();
-            solve();
-            build();
-            repeat();
-        }
-    }
 };
 ```
 
