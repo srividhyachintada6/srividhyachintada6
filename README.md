@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,spring,mysql,git,github&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,spring,mysql,git,github,vscode&perline=5"/>
 
 </div>
 
@@ -72,47 +72,106 @@
 
 <div align="center">
 
-`JAVA`　`JAVASCRIPT`　`REACT`　`NODE.JS`　`SPRING BOOT`
+`JAVA`　`JAVASCRIPT`　`REACT`　`SPRING BOOT`　`HTML`
 
-`HTML`　`CSS`　`MYSQL`　`GIT`　`GITHUB`
+`CSS`　`MYSQL`　`GIT`　`GITHUB`　`VS CODE`
 
 </div>
 
 <br>
 
-## `03` ── CURRENTLY BUILDING MYSELF
+## `03` ── CURRENTLY LEARNING
 
 <div align="center">
 
-|      🧠 DSA     |     ☕ Java    |   ⚡ JavaScript  | ⚛️ React |
-| :-------------: | :-----------: | :-------------: | :------: |
-| Problem Solving | Core Concepts | Web Development | Frontend |
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=MERN+Stack+%E2%9A%A1;JavaScript+%7C+React+%7C+Node.js;Building+Full+Stack+Web+Projects;Learning+by+Building+%F0%9F%9A%80"/>
+
+<br><br>
+
+`JavaScript` → `React` → `Node.js` → `MERN`
 
 </div>
 
 <br>
+
+## `04` ── MY CODING JOURNEY
 
 ```text
-Learning something new
-        ↓
-Practice it
-        ↓
-Solve problems
-        ↓
-Build something
-        ↓
-Repeat 🔁
+              ┌───────────────┐
+              │    LEARN      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    PRACTICE   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     SOLVE     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     BUILD     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    IMPROVE    │
+              └───────┬───────┘
+                      ↺
 ```
 
 <br>
 
-## `04` ── SOMETHING I'VE BUILT
+<div align="center">
+
+## `05` ── GITHUB ACTIVITY
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srividhyachintada6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
+
+<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=srividhyachintada6&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7"/>
+
+</div>
+
+<br><br>
 
 <div align="center">
 
-### 🖨️ CAMPUSPRINT
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7B42F6&center=true&vCenter=true&width=600&lines=One+problem+at+a+time.;One+concept+at+a+time.;Keep+learning.+Keep+building.+%F0%9F%9A%80"/>
 
-**College Xerox & Printing Ordering System**
+</div>
 
-A project built around a simple real-world college problem —
-making the printing/Xerox
+<br>
+
+---
+
+<div align="center">
+
+### `✨ LEARN • BUILD • SOLVE • IMPROVE ✨`
+
+<br>
+
+**And now... watch the contributions move 👇**
+
+<br>
+
+## 🐍 CONTRIBUTION GAME
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake.svg"
+  />
+</picture>
+
+<br><br>
+
+`Thanks for visiting my profile 💙`
+
+</div>
