@@ -94,65 +94,6 @@
 
 <br>
 
-## `04` ── MY CODING JOURNEY
-
-```text
-              ┌───────────────┐
-              │    LEARN      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    PRACTICE   │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     SOLVE     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     BUILD     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    IMPROVE    │
-              └───────┬───────┘
-                      ↺
-```
-
-<br>
-
-<div align="center">
-
-## `05` ── GITHUB ACTIVITY
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srividhyachintada6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF"/>
-
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=srividhyachintada6&hide_border=true&background=0D1117&stroke=7B42F6&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7B42F6&center=true&vCenter=true&width=600&lines=One+problem+at+a+time.;One+concept+at+a+time.;Keep+learning.+Keep+building.+%F0%9F%9A%80"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `✨ LEARN • BUILD • SOLVE • IMPROVE ✨`
-
-<br>
-
-**And now... watch the contributions move 👇**
-
-<br>
-
 ## 🐍 CONTRIBUTION GAME
 
 <picture>
