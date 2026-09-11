@@ -113,7 +113,6 @@ const srividhya = {
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-
 </div>
 
 #### 💻 Languages & Tools
@@ -131,28 +130,6 @@ const srividhya = {
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- Animated Divider -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Current Focus -->
-
-<h2 align="center">🚀 What I'm Currently Working On</h2>
-
-<div align="center">
-
-| Area           | Focus                                         |
-| -------------- | --------------------------------------------- |
-| 💻 Development | Full Stack Web Development                    |
-| ⚛️ Frontend    | React + JavaScript + Tailwind CSS             |
-| ☕ Backend      | Java + Spring Boot + REST APIs                |
-| 🧠 DSA         | Java + LeetCode Problem Solving               |
-| 🗄️ Database   | PostgreSQL + MySQL + MongoDB                  |
-| 🖨️ Project    | CampusPrint — College Xerox & Printing System |
-| 📚 Learning    | MERN Stack + System Design                    |
 
 </div>
 
