@@ -162,22 +162,9 @@ const srividhya = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake.svg"
-    />
-
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/output/github-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
   </picture>
-
 </div>
