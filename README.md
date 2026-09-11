@@ -34,7 +34,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+### <img src="https://app.lottiefiles.com/animation/e79bb7b2-83d5-4ebf-998f-899cea17acc2" width="30px"> About Me  
 
 ```javascript
 const srividhya = {
