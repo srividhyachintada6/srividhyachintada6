@@ -132,6 +132,8 @@ const srividhya = {
 </table>
 
 </div>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <!-- Animated Divider -->
 
