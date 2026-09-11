@@ -32,8 +32,10 @@
 
 <!-- About Me Section -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
+<img align="right"
+     alt="Web Developer"
+     width="400"
+     src="https://raw.githubusercontent.com/srividhyachintada6/srividhyachintada6/main/.github/workflows/webdeveloper_89e24a51.gif">
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
